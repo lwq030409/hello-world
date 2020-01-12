@@ -9,4 +9,8 @@ public class TestUtilsTest {
 		TestUtils.printOut();
 	}
 	
+	@Test
+	public void testTool1() {
+		TestUtils.printOut1();
+	}
 }

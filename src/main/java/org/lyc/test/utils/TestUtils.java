@@ -6,4 +6,8 @@ public class TestUtils {
 		System.out.println("test out put!");
 	}
 	
+	public static void printOut1() {
+		System.out.println("test out put!");
+	}
+	
 }
